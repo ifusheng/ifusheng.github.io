@@ -1,0 +1,9 @@
+Origin: Fusn
+Label: Tccpg
+Suite: stable
+Version: 1.7
+Codename: Tccpg
+Architectures: iphoneos-arm
+Components: main
+Description: 浮生的私用软件源
+
