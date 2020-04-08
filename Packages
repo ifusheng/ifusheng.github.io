@@ -1,0 +1,16 @@
+Package: com.fusn.wxpyqyt
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Fusn
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/微信朋友圈原图最新版.deb
+Size: 2362
+MD5sum: 13e46602f1be1ef80fe7de8b509ef627
+SHA1: 4043516a25b0c604c31d701778e933b10cd85999
+SHA256: bbd2a52a70ad8c45f2b5f89d7fe61bbf1d3fe22c95843074a232fd0a370d8cad
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Fusn
+Name: fusn
+
