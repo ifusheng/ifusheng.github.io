@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Fusn
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/微信朋友圈原图最新版.deb
+Filename: ./debs/weixingpengyouquanyuantu.deb
 Size: 2362
 MD5sum: 13e46602f1be1ef80fe7de8b509ef627
 SHA1: 4043516a25b0c604c31d701778e933b10cd85999
