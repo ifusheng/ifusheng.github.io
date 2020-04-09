@@ -4,13 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: Fusn
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/weixingpengyouquanyuantu.deb
-Size: 2362
-MD5sum: 13e46602f1be1ef80fe7de8b509ef627
-SHA1: 4043516a25b0c604c31d701778e933b10cd85999
-SHA256: bbd2a52a70ad8c45f2b5f89d7fe61bbf1d3fe22c95843074a232fd0a370d8cad
+Filename: ./debs/com.fusn.wxpyqyt_0.0.1-1_iphoneos-arm.deb
+Size: 2402
+MD5sum: bd84b8cdbfd2dd59d574f6dffb871d59
+SHA1: e0c389f0bdc3e285311b8364d7c6a35a199b6815
+SHA256: 7e6bf8cb1951bb57e88a68e5532474d699b47f27bbf0492fddb1ba33e899173c
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Fusn
-Name: fusn
+Name: 微信朋友圈发原图
 
