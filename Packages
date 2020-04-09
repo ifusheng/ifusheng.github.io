@@ -1,16 +1,16 @@
 Package: com.fusn.wxpyqyt
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Fusn
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.fusn.wxpyqyt_0.0.1-1_iphoneos-arm.deb
-Size: 2402
-MD5sum: bd84b8cdbfd2dd59d574f6dffb871d59
-SHA1: e0c389f0bdc3e285311b8364d7c6a35a199b6815
-SHA256: 7e6bf8cb1951bb57e88a68e5532474d699b47f27bbf0492fddb1ba33e899173c
+Filename: ./debs/com.fusn.wxpyqyt_0.0.1-2_iphoneos-arm.deb
+Size: 2428
+MD5sum: 9f03d9efc5e510e94e5bf9f4f550ca9d
+SHA1: 4d1a110c058d7cbc6653d819d229f2468601518d
+SHA256: 3fdf64209ade6377f304c302ad3ab982be9afb25f3c97d8452e9be578044a8cf
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: 微信发朋友圈打开原图选项，支持最新版！
 Author: Fusn
 Name: 微信朋友圈发原图
 
