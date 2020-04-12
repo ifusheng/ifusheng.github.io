@@ -14,3 +14,19 @@ Description: 微信发朋友圈打开原图选项，支持最新版！
 Author: Fusn
 Name: 微信朋友圈发原图
 
+Package: com.fusn.zfbbs
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: fusn
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.fusn.zfbbs_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3514
+MD5sum: ee89afd27a7842bc0307bbbe394b517f
+SHA1: 241d8c0218d43ae389e4ef8cc2e4bf8be5a46ca7
+SHA256: 14d9c57b6709b6b65961c4b42288a66a119506dd9a91f30ce110a2604190cbc0
+Section: Tweaks
+Description: 支付宝改10万步数，安装后可能半天才生效！
+Author: fusn
+Name: zhifubaobushu
+
