@@ -1,3 +1,18 @@
+Package: com.fusn.showtouch
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: ShowTouch
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/ShowTouch.deb
+Size: 106306
+MD5sum: 99179ad0d142f864e875fef26d76858c
+SHA1: c54264af13e17a7e5b26e67fd217955539af75d2
+SHA256: 47ecd972f1a44b2f18f725958cb741e5ca37ff158bfa2630a7749e620903966b
+Section: Tweak
+Description: 屏幕录制点击显示插件！
+Author: Lonestarx
+Name: 录屏触点提示
+
 Package: com.fusn.wxpyqyt
 Version: 0.0.1-2
 Architecture: iphoneos-arm
