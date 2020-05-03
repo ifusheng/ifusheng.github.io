@@ -1,3 +1,18 @@
+Package: com.fusn.Cunstuck
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Cunstuck
+Depends: mobilesubstrate
+Filename: ./debs/xunidingwei.deb
+Size: 646074
+MD5sum: 94465512ec5a1762ad906ee3df33bb29
+SHA1: 67f773c04dedc345cea2c87d5a55e9bfd554060f
+SHA256: bea157acd659fc2a1de375b04f4687b24b44cf99af5bb193efc4d5922448ce90
+Section: 插件
+Description: 强大的定位修改器
+Author: Cunstuck
+Name: 虚拟定位
+
 Package: com.fusn.showtouch
 Version: 1.0.4
 Architecture: iphoneos-arm
