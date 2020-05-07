@@ -13,6 +13,22 @@ Description: 强大的定位修改器
 Author: Cunstuck
 Name: 虚拟定位
 
+Package: com.fusn.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/shadow.deb
+Size: 251530
+MD5sum: 6ff4c54bb527b947dca0120dcad2b426
+SHA1: a509b87b2074d734b185c1ae6cc1996693c3f468
+SHA256: b853980c37c2e0767c8fcde343feaa47b99980241407c43848cbff0ead83ae7f
+Section: Tweaks
+Description: 最强的屏蔽检测工具
+Author: jjolano
+Name: Shadow 屏蔽越狱检测
+Sponsor: jjolano
+
 Package: com.fusn.showtouch
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -34,7 +50,7 @@ Architecture: iphoneos-arm
 Maintainer: Fusn
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.fusn.wxpyqyt_0.0.1-2_iphoneos-arm.deb
+Filename: ./debs/wxpyqyt.deb
 Size: 2428
 MD5sum: 9f03d9efc5e510e94e5bf9f4f550ca9d
 SHA1: 4d1a110c058d7cbc6653d819d229f2468601518d
@@ -50,7 +66,7 @@ Architecture: iphoneos-arm
 Maintainer: fusn
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.fusn.zfbbs_0.0.1-2+debug_iphoneos-arm.deb
+Filename: ./debs/zfbbs.deb
 Size: 3506
 MD5sum: 2da558ee32f96c4e1caa56760a010090
 SHA1: f4bd3ece579e82b3f2351715145fef04ca4033e9
